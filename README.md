@@ -19,3 +19,6 @@ Before running this chatbot, you'll need:
 ![Screenshot 2025-01-30 at 4 38 06 PM](https://github.com/user-attachments/assets/4c8c3d25-a01f-4648-9cc1-701fea269eac)
 
 This screenshot captures a session of the Gemini Chatbot running on the command line. The user interacts with the AI assistant by typing queries in the terminal. 
+ 2. How to run the code 
+   ```bash
+   python3 gemini_cli.py
